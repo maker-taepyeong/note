@@ -4,7 +4,7 @@
 
 당연하게도 오류 처리를 잘못하면 사용자가 불편해지고 사업적 손실로 이어진다.
 
-오류를 예측하고 처리하고 복구하는 기법을 익혀 복원력 있고 사용자 친화적적인 어플리케이션을 만들어야 한다.
+오류를 예측하고 처리하고 복구하는 기법을 익혀 복원력 있고 사용자 친화적인 어플리케이션을 만들어야 한다.
 
 - HTTP 상태 코드(HTTP status codes)
 - ErrorBoundary 컴포넌트를 사용하여 오류 포함(Using ErrorBoundary components to contain errors)

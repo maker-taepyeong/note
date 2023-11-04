@@ -11,6 +11,6 @@
 - [Scripting](modern-web-application/scripting/overview.md)
 - [SEO](modern-web-application/seo/overview.md)
 - [Error Handling](modern-web-application/error-handling/overview.md)
-- [Testing](modern-web-application/testing.md)
+<!-- - [Testing](modern-web-application/testing/overview.md) -->
 
 ## 작업 환경 설정

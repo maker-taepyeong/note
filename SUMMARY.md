@@ -9,7 +9,7 @@
 - [Loading](modern-web-application/loading/overview.md)
 - [Mutations](modern-web-application/mutations/overview.md)
 - [Scripting](modern-web-application/scripting/overview.md)
-- [SEO](modern-web-application/seo.md)
+- [SEO](modern-web-application/seo/overview.md)
 - [Error Handling](modern-web-application/error-handling.md)
 - [Testing](modern-web-application/testing.md)
 

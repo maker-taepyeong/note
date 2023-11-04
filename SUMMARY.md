@@ -4,7 +4,7 @@
 
 ## Modern Web Application
 
-- [Styling](modern-web-application/styling.md)
+- [Styling](modern-web-application/styling/overview.md)
 - [Routing](modern-web-application/routing.md)
 - [Loading](modern-web-application/loading.md)
 - [Mutations](modern-web-application/mutations.md)

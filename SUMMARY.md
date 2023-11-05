@@ -4,6 +4,7 @@
 
 ## Modern Web Application
 
+- [Overview](modern-web-application/overview.md)
 - [Styling](modern-web-application/styling/overview.md)
 - [Routing](modern-web-application/routing/overview.md)
 - [Loading](modern-web-application/loading/overview.md)
@@ -13,13 +14,6 @@
 - [Error Handling](modern-web-application/error-handling/overview.md)
 <!-- - [Testing](modern-web-application/testing/overview.md) -->
 
-<!-- ## Workflow Practices
+## Collab. & Workflow
 
-- [Git](workflow-practices/git/overview.md)
-- [GitHub](workflow-practices/github/overview.md)
-- [Code Review](workflow-practices/code-review/overview.md)
-- [Issue Tracking](workflow-practices/issue-tracking/overview.md)
-- [Continuous Integration](workflow-practices/continuous-integration/overview.md)
-- [Continuous Delivery](workflow-practices/continuous-delivery/overview.md)
-- [Continuous Deployment](workflow-practices/continuous-deployment/overview.md)
-- [Monitoring](workflow-practices/monitoring/overview.md) -->
+- [Overview](collaboration-workflow/overview.md)

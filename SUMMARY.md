@@ -17,4 +17,5 @@
 ## Collab. & Workflow
 
 - [Overview](collaboration-workflow/overview.md)
+- [Figma](collaboration-workflow/figma/overview.md)
 - [GitHub](collaboration-workflow/github/overview.md)

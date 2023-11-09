@@ -23,6 +23,8 @@
 
 <!-- ## TIL
 
+- [2023-11-09](today-i-learned/2023-11-09.md)
+- [2023-11-08](today-i-learned/2023-11-08.md)
 - [2023-11-07](today-i-learned/2023-11-07.md)
 - [2023-11-06](today-i-learned/2023-11-06.md)
 - [2023-11-03](today-i-learned/2023-11-03.md)
